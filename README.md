@@ -2,6 +2,8 @@
 
 AI Avatars is a project that generates AI-generated avatar images using the DreamBooth model with stable diffusion and Hugging Face's token services. It leverages the power of state-of-the-art AI technologies to create personalized avatars from a training dataset of human images.
 
+![Generated 3](https://github.com/GaurPeeyush/AI-Avatars/assets/81735768/b739dde8-ec43-47fe-be02-c2efd52ad8f1)
+
 ## Overview
 
 In today's digital age, creating personalized avatars has become a fascinating and challenging task. The AI Avatars project aims to tackle this challenge by using cutting-edge techniques, making it easier than ever to create unique and artistic avatars that capture the essence of an individual.
@@ -39,6 +41,9 @@ This project relies on the following major dependencies:
 - TensorFlow
 - Pillow (PIL)
 
+![generated 2](https://github.com/GaurPeeyush/AI-Avatars/assets/81735768/a77569d2-0d7b-4291-8c8a-c7d9bc5e6630)
+
+![Generated 1](https://github.com/GaurPeeyush/AI-Avatars/assets/81735768/bfa7ddf2-33fc-430b-9f44-971418316f53)
 
 ## Contributing
 
